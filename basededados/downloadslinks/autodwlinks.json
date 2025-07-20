@@ -1,0 +1,41 @@
+[
+  {
+    "id": "558598603654@s.whatsapp.net",
+    "multidl": false,
+    "active": true,
+    "platforms": [
+      {
+        "youtube": true,
+        "audio": true
+      },
+      {
+        "facebook": true,
+        "audio": false
+      },
+      {
+        "instagram": true,
+        "audio": true
+      },
+      {
+        "tiktok": true,
+        "audio": false
+      },
+      {
+        "twitter": true,
+        "audio": false
+      },
+      {
+        "mediafire": true
+      },
+      {
+        "github": true
+      },
+      {
+        "xvideos": true
+      },
+      {
+        "xnxx": true
+      }
+    ]
+  }
+]

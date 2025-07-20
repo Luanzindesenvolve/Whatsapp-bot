@@ -1,0 +1,22 @@
+[
+  {
+    "cmd": "desistir",
+    "usado": 2
+  },
+  {
+    "cmd": "tesouro",
+    "usado": 1
+  },
+  {
+    "cmd": "memoria",
+    "usado": 1
+  },
+  {
+    "cmd": "amor",
+    "usado": 1
+  },
+  {
+    "cmd": "modozoeira",
+    "usado": 1
+  }
+]

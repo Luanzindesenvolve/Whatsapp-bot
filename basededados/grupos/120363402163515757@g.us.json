@@ -1,0 +1,90 @@
+[
+  {
+    "name": "👑 TROCAS E VENDAS DO DG👑",
+    "groupId": "120363402163515757@g.us",
+    "x9": false,
+    "antiimg": false,
+    "antivideo": false,
+    "antiaudio": false,
+    "antisticker": false,
+    "antidoc": false,
+    "antictt": false,
+    "antiloc": false,
+    "antilinkgp": false,
+    "banlinkgp": false,
+    "antilinkhard": false,
+    "banlinkhard": false,
+    "antifake": false,
+    "antispam": false,
+    "antinotas": false,
+    "anticatalogo": false,
+    "modorpg": false,
+    "visuUnica": false,
+    "soadm": false,
+    "listanegra": [],
+    "advertir": [],
+    "prefixos": [
+      "!"
+    ],
+    "legenda_estrangeiro": "0",
+    "legenda_documento": "0",
+    "legenda_video": "0",
+    "legenda_imagem": "0",
+    "multiprefix": false,
+    "antipalavrao": {
+      "active": false,
+      "palavras": []
+    },
+    "limitec": {
+      "active": false,
+      "quantidade": 4000
+    },
+    "acceptGroup": {
+      "active": false,
+      "time": 1200
+    },
+    "wellcome": [
+      {
+        "bemvindo1": true,
+        "legendabv": "#tempo# #numerodele#, seja bem vindo (a) ao grupo #nomedogp#",
+        "legendasaiu": 0,
+        "fundobemvindo": "https://telegra.ph/file/600d1c155528a362b611e.jpg",
+        "fundosaiu": "https://telegra.ph/file/0c9f65be6f59ed3836fa2.jpg"
+      },
+      {
+        "bemvindo2": false,
+        "legendabv": "#tempo# #numerodele#, seja bem vindo (a) ao grupo #nomedogp#",
+        "legendasaiu": 0
+      },
+      {
+        "bemvindo3": false,
+        "selo": false,
+        "legendabv": "#tempo# #numerodele#, seja bem vindo (a) ao grupo #nomedogp#",
+        "legendasaiu": 0
+      },
+      {
+        "bemvindo4": false,
+        "selo": false,
+        "legendabv": "#tempo# #numerodele#, seja bem vindo (a) ao grupo #nomedogp#",
+        "legendasaiu": 0
+      },
+      {
+        "bemvindo5": false,
+        "legendabv": "#tempo# #numerodele#, seja bem vindo (a) ao grupo #nomedogp#",
+        "fundobemvindo": "https://telegra.ph/file/1033d50e20ecaed996af5.mp4",
+        "legendasaiu": 0,
+        "fundosaiu": "https://telegra.ph/file/97227abace448c76a43df.mp4"
+      }
+    ],
+    "simi1": false,
+    "simi2": false,
+    "autosticker": false,
+    "autoresposta": false,
+    "jogos": false,
+    "level": false,
+    "bangp": false,
+    "nsfw": false,
+    "antiporno": false,
+    "autotranscricao": false
+  }
+]

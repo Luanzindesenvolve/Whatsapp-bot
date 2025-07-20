@@ -1,0 +1,30 @@
+[
+  {
+    "nome": "Lady city",
+    "nome2": "lady city",
+    "prefeito": "558598603654@s.whatsapp.net",
+    "level": 99,
+    "xp": 999999,
+    "moradores": [
+      {
+        "id": "558598603654@s.whatsapp.net",
+        "nome": "†ㅤ",
+        "banco": "Bradesco 📍",
+        "registro": {
+          "data": "18/04/2025",
+          "hora": "11:31"
+        },
+        "saldo": 999999999999999,
+        "casa": true,
+        "lv_casa": 3,
+        "veiculo": [
+          {
+            "tipo": "Carro",
+            "velocidade": 2
+          }
+        ],
+        "trabalho": []
+      }
+    ]
+  }
+]

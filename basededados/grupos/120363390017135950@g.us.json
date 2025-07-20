@@ -1,0 +1,138 @@
+[
+  {
+    "name": "CONTAS FREE FIRE (1)",
+    "groupId": "120363390017135950@g.us",
+    "x9": false,
+    "antiimg": false,
+    "antivideo": false,
+    "antiaudio": false,
+    "antisticker": false,
+    "antidoc": false,
+    "antictt": false,
+    "antiloc": false,
+    "antilinkgp": false,
+    "banlinkgp": false,
+    "antilinkhard": false,
+    "banlinkhard": false,
+    "antifake": false,
+    "antispam": false,
+    "antinotas": false,
+    "anticatalogo": false,
+    "modorpg": false,
+    "visuUnica": false,
+    "soadm": false,
+    "listanegra": [],
+    "advertir": [
+      {
+        "id": "5511940309925@s.whatsapp.net",
+        "adv": 1
+      },
+      {
+        "id": "558195040655@s.whatsapp.net",
+        "adv": 1
+      },
+      {
+        "id": "5511969561052@s.whatsapp.net",
+        "adv": 2
+      },
+      {
+        "id": "5511933356342@s.whatsapp.net",
+        "adv": 2
+      },
+      {
+        "id": "5521987997566@s.whatsapp.net",
+        "adv": 2
+      },
+      {
+        "id": "5521964025954@s.whatsapp.net",
+        "adv": 1
+      },
+      {
+        "id": "559885841788@s.whatsapp.net",
+        "adv": 1
+      },
+      {
+        "id": "558791647159@s.whatsapp.net",
+        "adv": 1
+      },
+      {
+        "id": "5516997257584@s.whatsapp.net",
+        "adv": 1
+      },
+      {
+        "id": "5515996188197@s.whatsapp.net",
+        "adv": 1
+      },
+      {
+        "id": "557781343613@s.whatsapp.net",
+        "adv": 1
+      }
+    ],
+    "prefixos": [
+      ".",
+      "/",
+      "!",
+      "#"
+    ],
+    "legenda_estrangeiro": "0",
+    "legenda_documento": "0",
+    "legenda_video": "0",
+    "legenda_imagem": "0",
+    "multiprefix": false,
+    "antipalavrao": {
+      "active": false,
+      "palavras": []
+    },
+    "limitec": {
+      "active": true,
+      "quantidade": 4000
+    },
+    "acceptGroup": {
+      "active": false,
+      "time": 1200
+    },
+    "wellcome": [
+      {
+        "bemvindo1": true,
+        "legendabv": "*_Olá seja bem vindo/a ao grupo aproveite e se divirta 😜_*",
+        "legendasaiu": 0,
+        "fundobemvindo": "https://telegra.ph/file/600d1c155528a362b611e.jpg",
+        "fundosaiu": "https://telegra.ph/file/0c9f65be6f59ed3836fa2.jpg"
+      },
+      {
+        "bemvindo2": false,
+        "legendabv": "#tempo# #numerodele#, seja bem vindo (a) ao grupo #nomedogp#",
+        "legendasaiu": 0
+      },
+      {
+        "bemvindo3": false,
+        "selo": false,
+        "legendabv": "#tempo# #numerodele#, seja bem vindo (a) ao grupo #nomedogp#",
+        "legendasaiu": 0
+      },
+      {
+        "bemvindo4": false,
+        "selo": false,
+        "legendabv": "#tempo# #numerodele#, seja bem vindo (a) ao grupo #nomedogp#",
+        "legendasaiu": 0
+      },
+      {
+        "bemvindo5": false,
+        "legendabv": "#tempo# #numerodele#, seja bem vindo (a) ao grupo #nomedogp#",
+        "fundobemvindo": "https://telegra.ph/file/1033d50e20ecaed996af5.mp4",
+        "legendasaiu": 0,
+        "fundosaiu": "https://telegra.ph/file/97227abace448c76a43df.mp4"
+      }
+    ],
+    "simi1": false,
+    "simi2": false,
+    "autosticker": false,
+    "autoresposta": false,
+    "jogos": false,
+    "level": false,
+    "bangp": false,
+    "nsfw": false,
+    "antiporno": false,
+    "autotranscricao": false
+  }
+]

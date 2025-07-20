@@ -1,0 +1,44 @@
+{
+  "player1": "558598603654@s.whatsapp.net",
+  "player2": "5511955838043@s.whatsapp.net",
+  "status": "MEMORIZANDO",
+  "turno": "558598603654@s.whatsapp.net",
+  "deck": [
+    "🥝",
+    "🍇",
+    "🍇",
+    "🍍",
+    "🍌",
+    "🍎",
+    "🍒",
+    "🍉",
+    "🍎",
+    "🍉",
+    "🍌",
+    "🥝",
+    "🍍",
+    "🍒"
+  ],
+  "reveladas": [
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false
+  ],
+  "paresEncontrados": {
+    "558598603654@s.whatsapp.net": 0,
+    "5511955838043@s.whatsapp.net": 0
+  },
+  "jogadas": 0,
+  "tentativa": []
+}
