@@ -20,6 +20,7 @@ return `
 | ೈ፝͜͡🔫│${prefix}ganharlikes (id)
 | ೈ፝͜͡🔫│${prefix}xpcheck (id)
 | ೈ፝͜͡🔫│${prefix}avaliarskin (id)
+| ೈ፝͜͡🔫│${prefix}packsensi
 | ೈ፝͜͡🔫│${prefix}wallpaperff (em breve)
 | ೈ፝͜͡🔫│${prefix}fotosff (em breve)
 | ೈ፝͜͡🔫│${prefix}iconff (em breve)

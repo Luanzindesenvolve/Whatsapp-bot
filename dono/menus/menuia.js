@@ -42,6 +42,33 @@ return `༒BEM-VINDO༒
  | ೈ፝͜͡🤖 ${prefix}bard2
  | ೈ፝͜͡🤖 ${prefix}blackboxai
  | ೈ፝͜͡🤖 ${prefix}blackboxai-pro
+ | ೈ፝͜͡🤖 ${prefix}grok-3:
+ | ೈ፝͜͡🤖 ${prefix}grok-3-reason:
+ | ೈ፝͜͡🤖 ${prefix}deepseek-r1:
+ | ೈ፝͜͡🤖 ${prefix}deepseek-r1-0528:
+ | ೈ፝͜͡🤖 ${prefix}deepseek-v3-0324:
+ | ೈ፝͜͡🤖 ${prefix}gpt-4.1:
+ | ೈ፝͜͡🤖 ${prefix}gpt-4.1-mini:
+ | ೈ፝͜͡🤖 ${prefix}gpt-4o:
+ | ೈ፝͜͡🤖 ${prefix}gpt-4o-2024-11-20:
+ | ೈ፝͜͡🤖 ${prefix}claude-opus-4-20250514:
+ | ೈ፝͜͡🤖 ${prefix}claude-sonnet-4-20250514:
+ | ೈ፝͜͡🤖 ${prefix}claude-3-7-sonnet-20250219:
+ | ೈ፝͜͡🤖 ${prefix}claude-3-7-sonnet-20250219-thinking:
+ | ೈ፝͜͡🤖 ${prefix}claude-3-5-sonnet:
+ | ೈ፝͜͡🤖 ${prefix}claude-3-5-sonnet-20241022:
+ | ೈ፝͜͡🤖 ${prefix}claude-opus-4-20250514-t:
+ | ೈ፝͜͡🤖 ${prefix}claude-sonnet-4-20250514-t:
+ | ೈ፝͜͡🤖 ${prefix}claude-3-7-sonnet-20250219-t:
+ | ೈ፝͜͡🤖 ${prefix}gemini-2.5-pro-preview-05-06:
+ | ೈ፝͜͡🤖 ${prefix}gemini-2.5-pro-preview-06-05:
+ | ೈ፝͜͡🤖 ${prefix}gemini-2.5-pro-preview-03-25:
+ | ೈ፝͜͡🤖 ${prefix}gemini-2.5-pro-official:
+ | ೈ፝͜͡🤖 ${prefix}gemini-2.5-flash-preview-05-20:
+ | ೈ፝͜͡🤖 ${prefix}gemini-flash:
+ | ೈ፝͜͡🤖 ${prefix}gemini-2.0-flash:
+ | ೈ፝͜͡🤖 ${prefix}o3:
+ | ೈ፝͜͡🤖 ${prefix}o4-mini
 ╰═══════════════════════╮
     📷 𝑮𝑬𝑹𝑨𝑹 𝑽𝑰𝑫𝑬𝑶/𝑭𝑶𝑻𝑶 🎥
 ╭═══════════════════════╯

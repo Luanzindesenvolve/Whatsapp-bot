@@ -51,7 +51,9 @@ return `༒BEM-VINDO༒
 | ೈ፝͜͡⚒️│${prefix}proximojogo
 | ೈ፝͜͡⚒️│${prefix}rastrearshop
 | ೈ፝͜͡⚒️│${prefix}likeff
+| ೈ፝͜͡⚒️│${prefix}likesff2
 | ೈ፝͜͡⚒️│${prefix}info-ff
+| ೈ፝͜͡⚒️│${prefix}info-ff2
 | ೈ፝͜͡⚒️│${prefix}check-ban
 | ೈ፝͜͡⚒️│${prefix}seguidores
 ╰════════════════════╯
